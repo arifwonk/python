@@ -11,7 +11,7 @@ print ("Nilai b = ", b)
 print ("Nilai panjang = ", panjang)
 
 # aturan penamaan variabel
-nilai_y = 200 # kdengan menggunakan underscore
+nilai_y = 200 # dengan menggunakan underscore
 juta10 = 1000000 # tidak boleh angka di depan
 nilaiX = 19.5  # ini boleh
 
