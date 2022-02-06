@@ -4,7 +4,7 @@
 #     aksi
 
 # ini dengan List
-from ast import Try
+
 
 
 angka_list = [2,4,6,8,10] #List
